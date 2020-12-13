@@ -1,0 +1,15 @@
+{
+	"BROKEN": "BROKEN",
+	"auth": {
+		"failed": "auth.failed",
+		"error": {
+			"notExists": "auth.error.notExists",
+			"invaildPassword": "auth.error.invaildPassword",
+			"exists": "auth.error.exists",
+			"login": "auth.error.login",
+			"missingParams": "auth.error.missingParams",
+			"notOwner": "auth.error.notOwner"
+		}
+	},
+	"Unexpected token t in JSON at position 30": "Unexpected token t in JSON at position 30"
+}
